@@ -1,0 +1,2 @@
+# Licorice
+A mathematics library
